@@ -1,0 +1,17 @@
+.experience {
+    background-color: #fdf5f8;
+    border-left: 4px solid #ff69b4;
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.experience h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.experience p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: #777;
+}
